@@ -62,7 +62,7 @@
 			   <div id="files" class="mb-3" data-files-size="${dto.boardFileDTOs.size()}">
 				  <div style="display: flex; justify-content: flex-end; gap: 10px;">
 				    <button class="btn btn-success" type="button" id="add_file" style="padding: 12px 24px; font-size: 1.1rem;">파일 추가</button>
-				    <button type="submit" class="btn btn-primary" style="padding: 12px 24px; font-size: 1.1rem;">수정 완료</button>
+				    <button type="submit" class="btn btn-primary" style="padding: 12px 24px; font-size: 1.1rem;">작성 완료</button>
 				  </div>
 				</div>
 				  
