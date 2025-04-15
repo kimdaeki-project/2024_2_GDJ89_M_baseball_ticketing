@@ -6,6 +6,6 @@
 프로젝트 : Middle Project
 주 제 : 야구 경기 예매 및 게시판 이용 서비스
 팀 원 : 김진원, 박동우, 윤문현
-GitHub URL : [[https://github.com/dirokim/aka_final](https://github.com/ddiske/projectJeju)](https://github.com/IncheonPark/baseball_ticketing)
+GitHub URL : https://github.com/IncheonPark/baseball_ticketing
 최종 Branch : master
 ```
